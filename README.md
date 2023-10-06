@@ -19,4 +19,4 @@ Este é um simples assistente de voz desenvolvido em Python que permite a anota�
 - Python 3.x
 - Bibliotecas Python: speech_recognition, gtts (Google Text-to-Speech), pygame
 
-Divirta-se com esse assistente de voz para anotações simples e eficazes!
+Divirta-se!
